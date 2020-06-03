@@ -35,6 +35,6 @@ Run the following commands to install ANJAY LWM2M library :
 
 **Results** : 
 
-![anjayclient1](/uploads/57cd5c7308f8a9cf74824c3815331663/anjayclient1.PNG)
+![anjayclient1](https://user-images.githubusercontent.com/43041062/83680700-ed50e780-a5fe-11ea-938d-cba33ca88c90.PNG)
 
-![anjayclient2_LI](/uploads/169deba23eb4d92539aa038107ae1856/anjayclient2_LI.jpg)
+![anjayclient2_LI](https://user-images.githubusercontent.com/43041062/83680768-06f22f00-a5ff-11ea-9571-151b62ea7634.jpg)
