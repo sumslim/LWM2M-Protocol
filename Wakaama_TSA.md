@@ -1,11 +1,6 @@
 # LWM2M-Protocol
 C Library Analysis of LWM2M Protocol - Wakaama and Anjay through server-client full duplex communication.
 
-Follow the below links to install LWM2M Wakaama Library : 
-
-* https://github.com/sumslim/LWM2M-Protocol.git
-* https://www.win.tue.nl/~lrahman/iot_2016/tutorial/Wakaama_2016.pdf
-
 Follow the below steps to successfully implement **Wakaama LWM2M** Server and Client and get the required properties i.e. **Peak RAM Usage**, **Total Time Taken** etc.
 
 * **Step 1** : Go to every sub-directory in **wakaama/example** and modify the CMakeLists.txt file by adding these 2 lines : 
