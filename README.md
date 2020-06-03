@@ -11,3 +11,5 @@ Time-Space-Analyser Library from ShunyaOS is not open source but to analyse time
 Follow the below links to install LWM2M Anjay Library : 
 
 * https://github.com/AVSystem/Anjay
+
+Use the **tsanalyser.h** and **tsanalyser.c** file inside ANJAY and WAKAAMA directory.
