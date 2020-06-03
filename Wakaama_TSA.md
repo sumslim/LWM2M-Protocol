@@ -27,11 +27,11 @@ _**Cross compiling** happens and we get executable files, which is required to b
 
 **Server running** : 
 
-![lwm2mserverscs_LI](/uploads/6bf0c9a201e8fd42189397c122fa11d6/lwm2mserverscs_LI.jpg)
+![lwm2mserverscs_LI](https://user-images.githubusercontent.com/43041062/83680328-71ef3600-a5fe-11ea-99a6-c92ad938e46b.jpg)
 
 **Client running** : 
 
-![lwm2mclientscs_LI](/uploads/c213f39174bbcd4bf70dc8e2bb5e5062/lwm2mclientscs_LI.jpg)
+![lwm2mclientscs_LI](https://user-images.githubusercontent.com/43041062/83680394-8af7e700-a5fe-11ea-8abe-bec1ffb08bce.jpg)
 
 
 
