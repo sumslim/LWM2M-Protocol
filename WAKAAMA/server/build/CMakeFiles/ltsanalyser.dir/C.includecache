@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sumslim/time-space-analyser/src/tsanalyser.c
+stdio.h
+-
+stddef.h
+-
+stdlib.h
+-
+stdint.h
+-
+unistd.h
+-
+sys/resource.h
+-
+time.h
+-
+tsanalyser/tsanalyser.h
+/home/sumslim/time-space-analyser/src/tsanalyser/tsanalyser.h
+

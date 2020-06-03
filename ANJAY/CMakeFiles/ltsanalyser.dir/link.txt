@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libltsanalyser.so -o ../output/lib/libltsanalyser.so CMakeFiles/ltsanalyser.dir/home/sumslim/time-space-analyser/src/tsanalyser.c.o 
